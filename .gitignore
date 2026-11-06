@@ -10,8 +10,8 @@ printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bak
 *.bkp
-*.csv
 *.bkp
+*.csv
 *.csv
 *.zip
 *.zip
